@@ -29,4 +29,11 @@ public class SidePanel extends BasePage
         clickWithJS(alerts,0,300);
         return new AlertsPage(driver);
     }
+
+    @FindBy(xpath="//span[.='Frames']")
+    WebElement frames;
+    public SidePanel selectFrame() {
+        clickWithJS(frames,0,300);
+        return new SidePanel(driver);
+    }
 }

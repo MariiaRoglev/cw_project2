@@ -28,6 +28,11 @@ public class AlertsTests extends TestBase
 
         }
 
+    @Test
+    public void sendMassageToAlertTEst()
+    {
+        new AlertsPage(driver).sendMessageToAlert("Hello").verifyMessage("Hello");
 
+    }
 
 }

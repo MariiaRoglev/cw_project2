@@ -50,4 +50,25 @@ public class AlertsPage extends BasePage
         Assert.assertTrue(confirmResult.getText().contains(text));
         return this;
     }
+
+    @FindBy(id="promtButton")
+    WebElement promtButton;
+    public AlertsPage sendMessageToAlert(String message) {
+        clickWithJS(promtButton,0,300);
+
+        if(message != null)
+        {
+            driver.switchTo().alert().sendKeys(message);
+            driver.switchTo().alert().accept();
+        }
+        return this;
+    }
+
+
+    @FindBy(id="promptResult")
+    WebElement promptResult;
+    public AlertsPage verifyMessage(String text) {
+        Assert.assertTrue(promptResult.getText().contains(text));
+        return this;
+    }
 }
