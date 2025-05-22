@@ -1,0 +1,62 @@
+1768 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\winte\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+15629 [main] INFO  com.demoqa.tests.TestBase -- Start test: createStudentAccount
+16015 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: .card:nth-child(2)
+16016 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16110 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: .card:nth-child(2)
+16111 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16637 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.xpath: //span[.='Practice Form']
+16637 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16703 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.xpath: //span[.='Practice Form']
+16703 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17043 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+17044 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17917 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+17918 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18835 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+18835 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18887 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+18888 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18948 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+18949 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19239 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+19241 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19572 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+19573 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19686 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+19686 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19988 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+19989 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20148 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+20149 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20280 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+20281 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20341 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+20343 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20579 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+20579 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20667 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+20669 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20856 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+20857 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20971 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+20972 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21094 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+21096 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21204 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+21205 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21483 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+21484 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21537 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+21537 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21736 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+21738 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21773 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+21773 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21940 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+21941 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+22060 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+22060 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+22175 [main] INFO  com.demoqa.tests.TestBase -- Test result: PASSED createStudentAccount
+22176 [main] INFO  com.demoqa.tests.TestBase -- ************************************************************
