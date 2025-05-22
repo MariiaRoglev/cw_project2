@@ -1,0 +1,301 @@
+3575 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\winte\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+15828 [main] INFO  com.demoqa.tests.TestBase -- Start test: createStudentAccount
+16030 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: .card:nth-child(2)
+16031 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16139 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: .card:nth-child(2)
+16139 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16343 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.xpath: //span[.='Practice Form']
+16343 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16387 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.xpath: //span[.='Practice Form']
+16388 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16575 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+16576 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16612 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+16612 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+16983 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+16983 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17026 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+17027 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17095 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+17095 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17145 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+17145 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17607 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+17607 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17710 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+17711 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+17946 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+17946 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18034 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+18034 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18162 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+18163 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18228 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+18228 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18359 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+18359 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18440 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+18440 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+18923 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+18927 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19109 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+19110 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19384 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+19385 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19510 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+19511 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19806 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+19806 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+19927 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+19928 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20408 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+20410 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20619 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+20621 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20820 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+20821 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+20948 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+20950 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21405 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='gender-radio-1']
+21406 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+21693 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='gender-radio-1']
+21694 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+22559 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+22560 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+23259 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+23262 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+24972 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+24974 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+25226 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+25233 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+26193 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+26194 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+26644 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+26647 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+28575 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+28575 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+28629 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+28630 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+28783 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+28783 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+28870 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+28872 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29233 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+29233 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29298 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+29298 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29421 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+29422 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29476 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+29476 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29685 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+29685 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29804 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+29806 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29908 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+29908 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+29967 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+29968 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30130 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+30130 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30154 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+30154 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30198 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+30198 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30219 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+30219 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30316 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+30316 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30342 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+30343 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30408 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='hobbies-checkbox-1']
+30408 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30475 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='hobbies-checkbox-1']
+30475 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30576 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='hobbies-checkbox-2']
+30576 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30605 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='hobbies-checkbox-2']
+30605 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30683 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-3-input
+30683 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+30713 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-3-input
+30713 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31046 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-3-input
+31046 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31117 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-3-input
+31118 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31242 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-4-input
+31243 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31334 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-4-input
+31334 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31601 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-4-input
+31602 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31663 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-4-input
+31663 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31746 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: submit
+31746 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31771 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: submit
+31772 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31910 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: example-modal-sizes-title-lg
+31910 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+31949 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: example-modal-sizes-title-lg
+31950 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+32123 [main] INFO  com.demoqa.tests.TestBase -- Test result: PASSED createStudentAccount
+32125 [main] INFO  com.demoqa.tests.TestBase -- ************************************************************
+41558 [main] INFO  com.demoqa.tests.TestBase -- Start test: createStudentAccount
+42294 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: .card:nth-child(2)
+42295 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+43616 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: .card:nth-child(2)
+43617 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+45092 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.xpath: //span[.='Practice Form']
+45093 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+45501 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.xpath: //span[.='Practice Form']
+45503 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49058 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+49058 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49131 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+49132 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49270 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+49270 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49300 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+49300 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49405 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: firstName
+49406 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49454 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: firstName
+49455 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49544 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+49544 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49582 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+49583 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49753 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+49754 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49798 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+49798 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+49981 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: lastName
+49981 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+50013 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: lastName
+50014 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+50223 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+50224 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+50307 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+50308 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51180 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+51180 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51241 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+51241 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51333 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userEmail
+51333 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51373 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userEmail
+51374 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51532 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+51532 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+51594 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+51596 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52066 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+52067 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52117 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+52117 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52187 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: userNumber
+52187 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52233 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: userNumber
+52234 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52381 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='gender-radio-1']
+52382 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52452 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='gender-radio-1']
+52452 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52644 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+52645 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+52693 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+52693 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+53249 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+53249 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+53418 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+53419 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+53564 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+53565 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+53622 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+53623 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54037 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: dateOfBirthInput
+54037 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54064 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: dateOfBirthInput
+54065 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54106 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54106 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54139 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54139 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54240 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54240 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54260 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54261 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54300 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54301 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54329 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54330 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54401 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54402 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54445 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54446 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54496 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54496 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54526 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54526 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54610 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54610 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54633 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54633 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54664 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54664 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54682 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54682 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54785 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: subjectsInput
+54785 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54812 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: subjectsInput
+54812 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54872 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='hobbies-checkbox-1']
+54873 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+54898 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='hobbies-checkbox-1']
+54899 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55036 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.cssSelector: [for='hobbies-checkbox-2']
+55036 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55064 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.cssSelector: [for='hobbies-checkbox-2']
+55065 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55171 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-3-input
+55171 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55197 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-3-input
+55197 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55342 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-3-input
+55343 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55368 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-3-input
+55368 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55427 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-4-input
+55427 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55454 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-4-input
+55455 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55576 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: react-select-4-input
+55576 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55605 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: react-select-4-input
+55605 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55674 [main] INFO  com.demoqa.utils.MyListener -- The locator will be foundBy.id: submit
+55674 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+55697 [main] INFO  com.demoqa.utils.MyListener -- The locator is foundBy.id: submit
+55697 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+56821 [main] INFO  com.demoqa.utils.MyListener -- The test has a problem
+56822 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+56822 [main] INFO  com.demoqa.utils.MyListener -- Method-->click
+56822 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+56824 [main] INFO  com.demoqa.utils.MyListener -- Target Exception-->org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="submit" type="submit" class="btn btn-primary">...</button> is not clickable at point (1366, 800). Other element would receive the click: <div>...</div>
+  (Session info: chrome=136.0.7103.114)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f0e12097baad82f5d80143d4d6bbf8f, clickElement {id=f.19B618C34B0EDF3D202DDF1D93383FD3.d.09DA20F7915039950AB2AA9A3A43C303.e.117}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.114, chrome: {chromedriverVersion: 136.0.7103.92 (cb81a4cc5087..., userDataDir: C:\Users\winte\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56005}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56005/devtoo..., se:cdpVersion: 136.0.7103.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9f0e12097baad82f5d80143d4d6bbf8f)] -> id: submit]
+Session ID: 9f0e12097baad82f5d80143d4d6bbf8f
+56824 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+56824 [main] INFO  com.demoqa.utils.MyListener -- Object target-->[[ChromeDriver: chrome on windows (9f0e12097baad82f5d80143d4d6bbf8f)] -> id: submit]
+56824 [main] INFO  com.demoqa.utils.MyListener -- *******************************************************************
+56842 [main] ERROR com.demoqa.tests.TestBase -- Test result: FAILED createStudentAccount
+56842 [main] INFO  com.demoqa.tests.TestBase -- ************************************************************
